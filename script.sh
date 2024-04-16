@@ -4,7 +4,7 @@ sudo apt-get update
 sudo apt-get upgrade
 
 sudo add-apt-repository ppa:trebelnik-stefina/grub-customizer
-sudo apt-get install grub-customizer x
+sudo apt-get install grub-customizer
 
 echo "Passo - 02 Instalando OS-Prober e Identificando OS-Windowns"
 sudo apt install os-prober
